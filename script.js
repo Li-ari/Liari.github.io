@@ -18,8 +18,7 @@ const translations = {
     "profile.emailTitle": "Click to copy",
     "home.title": "Welcome to my personal blog",
     "home.nickname": "My nickname is Liari.",
-    "home.lol":
-      "In League of Legends, I mainly play as a bottom laner with Zeri.",
+    "home.lol": "Peak rank: Silver III. Zeri one-trick specialist.",
     "info.title": "Info.",
     "info.education.degree":
       "B.S. in Dark Chocolate Milk at Konkuk Milk, Seoul, South Korea",
@@ -53,7 +52,7 @@ const translations = {
     "profile.emailTitle": "클릭해서 복사",
     "home.title": "안녕하세요, 오유환 입니다.",
     "home.nickname": "제 닉네임은 리아리 입니다.",
-    "home.lol": "리그 오브 레전드에서는 제리로 바텀 라이너를 주로 플레이합니다.",
+    "home.lol": "최고 티어는 실버 3, 제리 원챔 장인입니다.",
     "info.title": "정보",
     "info.education.degree": "건국우유 다크 초코렛 우유학과 학사과정",
     "info.education.buyMilk": "구입하기 ↗",
