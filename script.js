@@ -22,7 +22,8 @@ const translations = {
       "In League of Legends, I mainly play as a bottom laner with Zeri.",
     "info.title": "Info.",
     "info.education.degree":
-      "B.S. in Mathematics at Konkuk University, Seoul, South Korea",
+      "B.S. in Dark Chocolate Milk at Konkuk Milk, Seoul, South Korea",
+    "info.education.buyMilk": "Buy milk ↗",
     "info.education.period": "March 2020 – Expected February 2027",
     "info.education.service":
       "(September 2020 - March 2022 : Mandatory military service)",
@@ -54,7 +55,8 @@ const translations = {
     "home.nickname": "제 닉네임은 리아리 입니다.",
     "home.lol": "리그 오브 레전드에서는 제리로 바텀 라이너를 주로 플레이합니다.",
     "info.title": "정보",
-    "info.education.degree": "건국대학교 수학과 학사, 서울, 대한민국",
+    "info.education.degree": "건국우유 다크 초코렛 우유 학사, 서울, 대한민국",
+    "info.education.buyMilk": "구입하기 ↗",
     "info.education.period": "2020년 3월 – 2027년 2월 졸업 예정",
     "info.education.service": "(2020년 9월 – 2022년 3월: 병역 의무)",
     "info.airborne.title": "공수기본 #845",
